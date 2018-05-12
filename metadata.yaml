@@ -1,0 +1,26 @@
+_repo: Kensington-Notting-Hill-and-Paddington_43203
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: An Old Inhabitant
+    alias: Inhabitant, An Old
+    gutenberg_agent_id: '42063'
+    url: http://www.gutenberg.org/2009/agents/42063
+description: ''
+gutenberg_issued: '2013-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- History'
+title: "Kensington, Notting Hill, and Paddington\r\nWith Remembrances of the Locality\
+  \ 38 Years Ago"
+url: http://www.gutenberg.org/ebooks/43203
